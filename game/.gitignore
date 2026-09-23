@@ -1,0 +1,4 @@
+.vscode
+.idea
+skaffold.yaml
+nohup.out
